@@ -106,7 +106,6 @@
   "custom-components/media_player.braviatv_psk",
   "custom-components/nordpool",
   "custom-components/places",
-  "custom-components/pyscript",
   "custom-components/qbo",
   "custom-components/readme",
   "custom-components/remote_homeassistant",
@@ -420,6 +419,11 @@
   "r-renato/ha-climacell-weather",
   "r-renato/hass-xiaomi-mi-flora-and-flower-care",
   "Racailloux/home-assistant-pijuice",
+  "racelandshop/hass-browser_mod",
+  "racelandshop/HASS-Deepstack-face",
+  "racelandshop/HASS-Deepstack-object",
+  "racelandshop/hass-lovelace_gen",
+  "racelandshop/pyscript",
   "raman325/ha-zoom-automation",
   "rccoleman/channels_dvr_recently_recorded",
   "rccoleman/lamarzocco",
@@ -438,8 +442,6 @@
   "RobHofmann/HomeAssistant-PhilipsAndroid2014",
   "robinostlund/homeassistant-volkswagencarnet",
   "robmarkcole/HASS-amazon-rekognition",
-  "robmarkcole/HASS-Deepstack-face",
-  "robmarkcole/HASS-Deepstack-object",
   "robmarkcole/HASS-Machinebox-Classificationbox",
   "robmarkcole/Hue-sensors-HASS",
   "rospogrigio/localtuya",
@@ -552,7 +554,5 @@
   "youdroid/home-assistant-gitea",
   "youdroid/home-assistant-sickchill",
   "zachowj/hass-node-red",
-  "zigul/HomeAssistant-CEZdistribuce", 
-  "racelandshop/hass-browser_mod",
-  "racelandshop/hass-lovelace_gen"
+  "zigul/HomeAssistant-CEZdistribuce"
 ]
