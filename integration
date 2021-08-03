@@ -1,4 +1,4 @@
 [
-  racelandshop/hass-browser_mod, 
-  racelandshop/hass-lovelace_gen
+  "racelandshop/hass-browser_mod", 
+  "racelandshop/hass-lovelace_gen"
 ]
